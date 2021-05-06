@@ -37,3 +37,6 @@ console.log("feature 2");
 var a = "ini feature 2 bro blblabala";
 
 console.log(a);
+// blablabslbaldbaldlasd
+// blablabslbaldbaldlasd// blablabslbaldbaldlasd// blablabslbaldbaldlasd// blablabslbaldbaldlasd// blablabslbaldbaldlasd
+// blablabslbaldbaldlasd
