@@ -7,4 +7,4 @@ var b = 1234;
 
 console.log(b + b);
 
-console.log(000)
+console.log(000);
